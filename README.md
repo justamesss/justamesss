@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @justamesss
-- 👀 I’m interested in your mom
-- 🌱 I’m currently learning how to be a girl
-- 💞️ I’m looking to collaborate on overthrowing the government
-- 📫 How to reach me: dont
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ants scream when you kill them
+m
