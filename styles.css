@@ -1,25 +1,23 @@
-body
-{
+body {
     background-color: mediumspringgreen;
     font-family: Arial, Helvetica, sans-serif;
     margin: 40px;
 }
 
-h1 
-{
+h1 {
     text-align: center;
     color: rgba(47, 79, 79, 0.884);
 }
 
-h2
-{
+h2 {
     text-align: center;
     color: darkslategray;
 }
 
-.projects 
+.projects
 { 
-    display:flex; flex-wrap:wrap; 
+    display:flex; 
+    flex-wrap:wrap; 
 }
 
 .project 
@@ -27,6 +25,15 @@ h2
 width: 30%;
 margin: 10px;
 padding: 20px 10px;
-background: white; /* pick a color */
+background: white; 
 border-radius: 25%;
 }
+
+.project img{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid rgba(97, 226, 166, 0.432); 
+    display: block;
+    margin: auto;
+    }
