@@ -35,8 +35,8 @@ border-radius: 25%;
 }
 
 .project img{
-width: 500px;
-height: 300px;
+width: 95%;
+height: auto;
 margin: 10px;
 border: 2px solid rgba(97, 226, 166, 0.432); 
 display: block;
@@ -73,4 +73,9 @@ width:50%;
 text-align: center;
 margin: auto;
 line-height: 125%;
+}
+
+#proto {
+width: 75%;
+height: 75%
 }
